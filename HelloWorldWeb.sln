@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldWeb", "HelloWorldWeb\HelloWorldWeb.csproj", "{66B4B0FA-E84A-45B9-AA77-C7E7D6C2E33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B4B0FA-E84A-45B9-AA77-C7E7D6C2E33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B4B0FA-E84A-45B9-AA77-C7E7D6C2E33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B4B0FA-E84A-45B9-AA77-C7E7D6C2E33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B4B0FA-E84A-45B9-AA77-C7E7D6C2E33F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F85337-850A-46FB-BDF1-8ABE020236CF}
+	EndGlobalSection
+EndGlobal
