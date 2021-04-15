@@ -22,15 +22,15 @@ namespace HelloWorldWeb.Controllers
         {
             return View();
         }
-
+        /// <summary>
+        /// For privacy 
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Privacy()
         {
             return View();
         }
-        public IActionResult Delete(int id)
-        {
-            return Content("Delete Action For id = " + id);
-        }
+        
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
